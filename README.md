@@ -2,7 +2,7 @@
 
 ### Login Page Example
 
-<form action="/submit" method="post">
+<form action="http://walla.co.il" method="GET">
   <label for="username">Username:</label><br>
   <input type="text" id="username" name="username"><br><br>
   
